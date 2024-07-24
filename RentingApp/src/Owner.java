@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Owner extends Person{
-
+    //////// composition ////// 
     private List<Building> buildings;
 
     public Owner(String name){
