@@ -4,7 +4,7 @@ public class Contract {
     private PaymentWay paymentWay;
     private Customer customer;
     private Owner owner;
-    ///////// Composition ////////////////
+    ///////// Aggregation ////////////////
     private Building building;
 
 
