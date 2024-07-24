@@ -1,6 +1,7 @@
 public class Contract {
     private String rentalPeriod;
     private float price;
+    /////// Composition ///// 
     private PaymentWay paymentWay;
     private Customer customer;
     private Owner owner;
