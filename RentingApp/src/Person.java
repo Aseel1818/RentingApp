@@ -3,6 +3,7 @@ import java.util.List;
 
 public abstract class Person {
     private String name;
+    ////// Aggregation ////////
     private List<Contract> contracts ;
 
     Person(String name){
