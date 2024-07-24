@@ -3,7 +3,6 @@ import java.util.List;
 
 public class Owner extends Person{
 
-    /////// Aggregation////////
     private List<Building> buildings;
 
     public Owner(String name){
